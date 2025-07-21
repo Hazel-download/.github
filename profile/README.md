@@ -57,7 +57,7 @@ Hazel is an intelligent folder monitoring app designed for macOS users who want 
 ## 🖼 Preview
 
 ![Hazel Screenshot 1](https://www.noodlesoft.com/kb/wp-content/uploads/main.png)  
-![Hazel Screenshot 2](https://static.macupdate.com/screenshots/340505/m/hazel-screenshot.webp?v=1667399043)
+![Hazel Screenshot 2](https://eshop.macsales.com/blog/wp-content/uploads/2023/06/Hazel_002-scaled.jpg)
 
 ---
 
